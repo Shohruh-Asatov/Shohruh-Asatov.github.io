@@ -30,3 +30,7 @@ margin:0 auto;
 	margin:0 auto;
 	style="margin-left: 40%;"
 }
+
+a::link{
+	text-decoration: false;
+}
